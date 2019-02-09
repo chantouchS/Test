@@ -1,0 +1,30 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: crimson;  
+}
+html{
+    scroll-behavior: initial;
+}
+.label{
+    font-size: 55px;
+}
+.label1{
+    font-size: 35px;
+}
+.field-body{
+    text-align: center;
+}
+#add{
+    text-align: center;
+    background-color: white;
+    background-size: auto;
+}
+#submit-btn{
+    background-color:white;
+}
+#ads-btn{
+    background-color: white;
+}
+#s-btn{
+    background-color: crimson;
+}

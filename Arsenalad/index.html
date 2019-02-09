@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>GUNNER PAGE</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+</head>
+<body>
+    <section class="section">
+    <div class="container">
+        <div class="level">
+            <div class="level-item">
+                <div class="field is-horizontal">
+                    <div class="field-label is-normal">
+                        <label class="label" for="input-text">ArsenalAddict</label><br>
+                        <label class="label1">Welcome Gooners to ArsenalAddict</label>
+                    </div>
+                    <div class="field-body">
+                        <div class="field">
+                        <p class="control">
+                            <input  class="input is-rounded" 
+                                    type="text" id="input-text"
+                                    placeholder="Enter Player Name">
+                                        <button id="submit-btn" class="button is-primary">
+                                            Submit
+                                        </button>
+                                </p>
+                        </div>
+                        <button id="ads-btn" class="button is-primary">
+                            Advance Search
+                        </button> 
+                        
+                    </div>
+                <div id="add">
+                   Position :  <form action="/action_page.php" method="get">
+                        <input type="checkbox" id ="GK">GK
+                        <input type="checkbox" id = "CB" >CB
+                        <input type="checkbox" id = "LB" >LB
+                        <input type="checkbox" id = "RB" >RB
+                        <input type="checkbox" id = "CDM" >CDM
+                        <input type="checkbox" id = "CAM" >CAM
+                        <input type="checkbox" id = "CM" >CM
+                        <input type="checkbox" id = "LM" >LM
+                        <input type="checkbox" id = "RM" >RM
+                        <input type="checkbox" id = "ST" >ST
+                        <input type="checkbox" id = "CF" >CF
+                        <input type="checkbox" id = "LW" >LW
+                        <input type="checkbox" id = "RW" >RW<br>
+                      </form>
+                      Preferd foot :  <form action="/action_page.php" method="get">
+                        <input type="checkbox" id = "RightF" >Right
+                        <input type="checkbox" id = "LeftF" >Left<br>
+                      </form>
+                      <button id="s-btn" class="button is-primary">
+                        Search
+                    </button>
+                </div> 
+                </div>
+            </div>
+
+            <div class="level-item">
+                <div class="content box is-large">
+                    <p></p>
+                </div>
+            </div>
+            <table class="table">
+                <thead>
+                  <tr>
+                    <th>Name</th>
+                    <th>Squad_number</th>
+                    <th>Nationality</th>
+                    <th>Position</th>
+                    <th>Prefered foot</th>
+                  </tr>
+                </thead>
+                <tbody id="dataUpdate">
+                </tbody>
+              </table>
+        </div>
+    </div>
+    </section>
+
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="myscript.js"></script>
+</body>
+</html>

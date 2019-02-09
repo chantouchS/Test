@@ -1,0 +1,205 @@
+[
+    {
+        "Name" : "Petr Cech",
+        "Squad_number" : "1",
+        "Nationality" : "Czech Republic",
+        "Position" : "GK",
+        "Prefered_Foot" : "Left"
+    },
+    {
+        "Name" : "Bernd Leno",
+        "Squad_number" : "19",
+        "Nationality" : "Germany",
+        "Position" : "GK",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Hector Bellerin",
+        "Squad_number" : "2",
+        "Nationality" : "Spain",
+        "Position" : "RB",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Sokratis Papastathopulos",
+        "Squad_number" : "5",
+        "Nationality" : "Greece",
+        "Position" : "CB",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Laurent Koscielny",
+        "Squad_number" : "6",
+        "Nationality" : "France",
+        "Position" : "CB",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Shkodran Mustafi",
+        "Squad_number" : "20",
+        "Nationality" : "Germany",
+        "Position" : "CB",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Stephan Lichtsteiner",
+        "Squad_number" : "12",
+        "Nationality" : "Switzerland",
+        "Position" : "RB",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Rob Holding",
+        "Squad_number" : "16",
+        "Nationality" : "England",
+        "Position" : "CB",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Nacho Monreal",
+        "Squad_number" : "18",
+        "Nationality" : "Spain",
+        "Position" : "LB",
+        "Prefered_Foot" : "Left"
+    },
+    {
+        "Name" : "Carl Jenkinson",
+        "Squad_number" : "25",
+        "Nationality" : "England",
+        "Position" : "RB",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Konstantinos Mavropanos",
+        "Squad_number" : "27",
+        "Nationality" : "Greece",
+        "Position" : "CB",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Sead Kolasinac",
+        "Squad_number" : "31",
+        "Nationality" : "Bosnia",
+        "Position" : "LB",
+        "Prefered_Foot" : "Left"
+    },
+    {
+        "Name" : "Mohamed Elneny",
+        "Squad_number" : "4",
+        "Nationality" : "Egypt",
+        "Position" : "CM",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Henrikh Mkhitaryan",
+        "Squad_number" : "7",
+        "Nationality" : "Armenia",
+        "Position" : "RM",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Aaron Ramsey",
+        "Squad_number" : "8",
+        "Nationality" : "Wales",
+        "Position" : "CM",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Mesut Ozil",
+        "Squad_number" : "10",
+        "Nationality" : "Germany",
+        "Position" : "CAM",
+        "Prefered_Foot" : "Left"
+    },
+    {
+        "Name" : "Lucas Torreira",
+        "Squad_number" : "11",
+        "Nationality" : "Uruguay",
+        "Position" : "CDM",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Ainsley Maitland-Niles",
+        "Squad_number" : "15",
+        "Nationality" : "England",
+        "Position" : "RM",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Denis Suarez",
+        "Squad_number" : "22",
+        "Nationality" : "Spain",
+        "Position" : "LM",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Matteo Guendouzi",
+        "Squad_number" : "29",
+        "Nationality" : "France",
+        "Position" : "CM",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Granit Xhaka",
+        "Squad_number" : "34",
+        "Nationality" : "Switzerland",
+        "Position" : "CDM",
+        "Prefered_Foot" : "Left"
+    },
+    {
+        "Name" : "Alexandre Lacazette",
+        "Squad_number" : "9",
+        "Nationality" : "France",
+        "Position" : "ST",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Pierre-Emerick Aubameyang",
+        "Squad_number" : "14",
+        "Nationality" : "Gabon",
+        "Position" : "ST",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Alex Iwobi",
+        "Squad_number" : "17",
+        "Nationality" : "Nigeria",
+        "Position" : "LW",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Danny Welbeck",
+        "Squad_number" : "23",
+        "Nationality" : "England",
+        "Position" : "RW",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "David Ospina",
+        "Squad_number" : "13",
+        "Nationality" : "Colombia",
+        "Position" : "GK",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Emiliano Martinez",
+        "Squad_number" : "26",
+        "Nationality" : "Argentina",
+        "Position" : "GK",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Calum Chambers",
+        "Squad_number" : "21",
+        "Nationality" : "England",
+        "Position" : "CB",
+        "Prefered_Foot" : "Right"
+    },
+    {
+        "Name" : "Takuma Asano",
+        "Squad_number" : "-",
+        "Nationality" : "Japan",
+        "Position" : "CF",
+        "Prefered_Foot" : "Right"
+    }
+]
